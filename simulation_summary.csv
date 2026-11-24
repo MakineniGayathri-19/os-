@@ -1,0 +1,5 @@
+Algorithm,Burst_Mode,Time_Slice,Sim_Time,Total_Processes,Completed_Processes,Incomplete_Processes,Avg_Waiting_Time,Avg_Turnaround_Time,Avg_Response_Time,CPU_Utilization_Pct,Throughput
+Round Robin (RR),Fixed,3,60,12,8,4,25.75,31.75,12.17,100.00,0.1333
+Round Robin (RR),Variable,3,60,12,7,5,22.14,27.00,11.25,98.33,0.1167
+UNIX Multilevel Feedback Queue (MLFQ),Fixed,3,60,12,8,4,37.00,43.00,4.67,100.00,0.1333
+UNIX Multilevel Feedback Queue (MLFQ),Variable,3,60,12,6,6,23.50,27.67,5.67,98.33,0.1000
